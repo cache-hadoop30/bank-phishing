@@ -1,0 +1,42 @@
+BDO Phishing Simulation Log - Educational Use Only
+
+
+[BDO PHISHING SIMULATION] - 2025-05-28T09:24:56.825572
+├─ IP Address: 127.0.0.1
+├─ User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0
+├─ Username: lala
+├─ Password: lala
+└─ Referrer: http://127.0.0.1:5000/
+
+
+[BDO PHISHING SIMULATION] - 2025-05-28T09:50:02.569563
+├─ IP Address: 127.0.0.1
+├─ User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0
+├─ Username: lala
+├─ Password: lala
+└─ Referrer: http://127.0.0.1:5000/
+
+
+[BDO PHISHING SIMULATION] - 2025-05-28T09:55:36.493304
+├─ IP Address: 127.0.0.1
+├─ User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0
+├─ Username: vale
+├─ Password: vale123
+└─ Referrer: http://127.0.0.1:5000/
+
+
+[BDO PHISHING SIMULATION] - 2025-05-28T09:58:14.038781
+├─ IP Address: 127.0.0.1
+├─ User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0
+├─ Username: vale
+├─ Password: vale123
+└─ Referrer: http://127.0.0.1:5000/
+
+
+[BDO PHISHING SIMULATION] - 2025-05-28T10:01:36.518388
+├─ IP Address: 127.0.0.1
+├─ User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0
+├─ Username: alexa
+├─ Password: alexa123
+└─ Referrer: http://127.0.0.1:5000/
+

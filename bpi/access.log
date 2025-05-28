@@ -1,0 +1,40 @@
+
+[SECURITY ALERT] Credentials Captured
+|-- Time: 2025-05-28 09:08:10
+|-- From: 127.0.0.1
+|-- User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0
+|-- Username: lala
+|-- Password: lala
+`-- Action: Preparing account takeover sequence
+
+[SECURITY ALERT] Credentials Captured
+|-- Time: 2025-05-28 09:09:07
+|-- From: 127.0.0.1
+|-- User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0
+|-- Username: kent
+|-- Password: kent
+`-- Action: Preparing account takeover sequence
+
+[SECURITY ALERT] Credentials Captured
+|-- Time: 2025-05-28 09:09:41
+|-- From: 127.0.0.1
+|-- User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0
+|-- Username: lala
+|-- Password: lala
+`-- Action: Preparing account takeover sequence
+
+[SECURITY ALERT] Credentials Captured
+|-- Time: 2025-05-28 09:36:18
+|-- From: 127.0.0.1
+|-- User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0
+|-- Username: alexa
+|-- Password: alexa
+`-- Action: Preparing account takeover sequence
+
+[BDO PHISHING SIMULATION] - 2025-05-28T09:41:39.005323
+├─ IP Address: 127.0.0.1
+├─ User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0
+├─ Username: alexa
+├─ Password: alexa
+└─ Referrer: http://127.0.0.1:5000/
+
